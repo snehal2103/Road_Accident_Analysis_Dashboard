@@ -76,5 +76,7 @@ Comprehensive data analysis by location.
 
 ## Screenshots
 
-![Uploading Screenshot 2024-12-03 205303.png…]()
+![Screenshot 2024-12-03 205303](https://github.com/user-attachments/assets/746f4fbd-3ac1-4077-a6f8-7978715fb6a6)
+
+
 
